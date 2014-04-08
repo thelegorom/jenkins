@@ -9,7 +9,7 @@ export WORKSPACE=$PWD
 
 if [ ! -d jenkins ]
 then
-  git clone git://github.com/legorom/jenkins.git
+  git clone git://github.com/thelegorom/jenkins.git
 fi
 
 cd jenkins
